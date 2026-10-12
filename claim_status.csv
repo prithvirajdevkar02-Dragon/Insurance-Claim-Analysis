@@ -1,8 +1,0 @@
-﻿claim_status_id,claim_status_name
-CS001,Registered
-CS002,Under Assessment
-CS003,Approved
-CS004,Rejected
-CS005,Paid
-CS006,Closed
-CS007,Renew
