@@ -1,0 +1,11 @@
+﻿loss_driver_id,loss_driver_name
+LD001,Fraudulent Claims
+LD002,High Treatment Cost
+LD003,Policy Misrepresentation
+LD004,Late Claim Filing
+LD005,Duplicate Claims
+LD006,Non-Disclosure of Pre-existing Disease
+LD007,Inflated Bills
+LD008,Coverage Exclusion
+LD009,Hospital Overbilling
+LD010,Documentation Issues

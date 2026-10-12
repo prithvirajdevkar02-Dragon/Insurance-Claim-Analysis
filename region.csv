@@ -1,0 +1,29 @@
+﻿region_id,region_name,state_id,state,city_id,city,country
+REG001,West,ST001,Maharashtra,CITY0001,Mumbai,India
+REG002,West,ST001,Maharashtra,CITY0002,Pune,India
+REG003,West,ST001,Maharashtra,CITY0003,Nagpur,India
+REG004,West,ST001,Maharashtra,CITY0004,Nashik,India
+REG005,West,ST001,Maharashtra,CITY0005,Aurangabad,India
+REG006,West,ST002,Gujarat,CITY0006,Ahmedabad,India
+REG007,West,ST002,Gujarat,CITY0007,Surat,India
+REG008,West,ST002,Gujarat,CITY0008,Vadodara,India
+REG009,North,ST003,Delhi,CITY0009,Delhi,India
+REG010,North,ST004,Uttar Pradesh,CITY0010,Lucknow,India
+REG011,North,ST004,Uttar Pradesh,CITY0011,Noida,India
+REG012,North,ST004,Uttar Pradesh,CITY0012,Kanpur,India
+REG013,North,ST004,Uttar Pradesh,CITY0013,Varanasi,India
+REG014,North,ST005,Haryana,CITY0014,Gurugram,India
+REG015,North,ST005,Haryana,CITY0015,Faridabad,India
+REG016,South,ST006,Karnataka,CITY0016,Bengaluru,India
+REG017,South,ST006,Karnataka,CITY0017,Mysuru,India
+REG018,South,ST006,Karnataka,CITY0018,Hubli,India
+REG019,South,ST007,Tamil Nadu,CITY0019,Chennai,India
+REG020,South,ST007,Tamil Nadu,CITY0020,Coimbatore,India
+REG021,South,ST007,Tamil Nadu,CITY0021,Madurai,India
+REG022,South,ST008,Telangana,CITY0022,Hyderabad,India
+REG023,South,ST008,Telangana,CITY0023,Warangal,India
+REG024,East,ST009,West Bengal,CITY0024,Kolkata,India
+REG025,East,ST009,West Bengal,CITY0025,Durgapur,India
+REG026,East,ST010,Odisha,CITY0026,Bhubaneswar,India
+REG027,Central,ST011,Madhya Pradesh,CITY0027,Indore,India
+REG028,Central,ST011,Madhya Pradesh,CITY0028,Bhopal,India
